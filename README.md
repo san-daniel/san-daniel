@@ -1,5 +1,7 @@
 ### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+
+[![Twitter: Daniel-san](https://img.shields.io/twitter/follow/Daniels10964589?style=social)](https://twitter.com/Daniels10964589)
 <!--
 **san-daniel/san-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
