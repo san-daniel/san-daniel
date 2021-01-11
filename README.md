@@ -2,6 +2,7 @@
 
 
 [![Twitter: Daniel-san](https://img.shields.io/twitter/follow/Daniels10964589?style=social)](https://twitter.com/Daniels10964589)
+[![GitHub Daniel-san](https://img.shields.io/github/followers/san-daniel?label=follow&style=social)](https://github.com/san-daniel)
 <!--
 **san-daniel/san-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
