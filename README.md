@@ -7,6 +7,7 @@
 
 Me llamo **Daniel**, estudie Actuaria en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
 
+![img](tmp.gif)
 
 
 <!--
