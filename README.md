@@ -1,11 +1,12 @@
 ### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+
 [![YouTube Daniel-san](https://img.shields.io/youtube/views/b4CXqMCpPM0?style=social)](https://www.youtube.com/channel/UCdKJSeCnPNHq8crsojwIMZg)
 [![Twitter: Daniel-san](https://img.shields.io/twitter/follow/Daniels10964589?style=social)](https://twitter.com/Daniels10964589)
 [![GitHub Daniel-san](https://img.shields.io/github/followers/san-daniel?label=follow&style=social)](https://github.com/san-daniel)
 [![Reddit Daniel-san](https://img.shields.io/reddit/user-karma/link/san-daniel?style=social)](https://www.reddit.com/user/san-daniel)
 
-Me llamo **Daniel**, estudie Actuaria en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
+Me llamo **Daniel**, estudie Actuaría en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
 <img src="https://raw.githubusercontent.com/san-daniel/san-daniel/main/tmp.gif" alt="img" align="right" width="400px">
 
 ````
