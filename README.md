@@ -1,8 +1,9 @@
 ### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
+[![YouTube Daniel-san](https://img.shields.io/youtube/views/b4CXqMCpPM0?style=social)](https://github.com/san-daniel)
 [![Twitter: Daniel-san](https://img.shields.io/twitter/follow/Daniels10964589?style=social)](https://twitter.com/Daniels10964589)
 [![GitHub Daniel-san](https://img.shields.io/github/followers/san-daniel?label=follow&style=social)](https://github.com/san-daniel)
+
 
 Me llamo **Daniel**, estudie Actuaria en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
 
