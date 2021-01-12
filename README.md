@@ -9,7 +9,7 @@
 Me llamo **Daniel**, estudie Actuaría en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
 <img src="https://raw.githubusercontent.com/san-daniel/san-daniel/main/tmp.gif" alt="img" align="right" width="300px">
 
-![skills](migif.gif)
+![skills](migif2.gif)
 
 ````
 @gif for i ∈ 1:n
