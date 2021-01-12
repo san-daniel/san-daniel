@@ -6,6 +6,8 @@
 
 Me llamo **Daniel**, estudie Actuaria en la UNAM :heart:, me gusta leer, dibujar, tocar guitarra, actualmente estoy aprendiendo el lenguaje de programación **julia** y trato de mejorar mis habilidades en **R**. 
 
+![tmp.gif](tmp.gif)
+
 <!--
 **san-daniel/san-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
